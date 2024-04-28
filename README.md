@@ -16,7 +16,9 @@ The Files that can be found here:
 - S3Q2_Birthday_Problem.png
 
 Slides for S2Q1: https://www.canva.com/design/DAGDipV-pRw/I2yZv1xgrLb73CMbwsLU4w/edit?utm_content=DAGDipV-pRw&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
 Slides for S2Q1_Bonus: https://www.canva.com/design/DAGDt6F_VeY/DkpvBNms855G9xga1p4h2Q/edit?utm_content=DAGDt6F_VeY&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
 Video link in youtube: https://youtu.be/6jXRddi1igc
+
 Video link in drive: https://drive.google.com/file/d/1VqqKdJRuoR03dnLxDAg9Q3XPWs7P6hIu/view?usp=sharing
